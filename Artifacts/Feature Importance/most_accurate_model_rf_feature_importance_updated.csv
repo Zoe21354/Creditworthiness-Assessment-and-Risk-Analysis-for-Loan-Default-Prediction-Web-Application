@@ -1,0 +1,17 @@
+feature,importance
+loan_int_rate,0.27575230163478004
+income_to_age_ratio,0.22506503340974932
+loan_amt_to_income_ratio,0.13166729344237785
+loan_percent_income,0.10218519307350969
+emp_length_to_age_ratio,0.06767463503818613
+person_home_ownership_RENT,0.05036570836663154
+person_cred_hist_length,0.04483345768073407
+loan_intent_HOMEIMPROVEMENT,0.022253841987407326
+person_home_ownership_MORTGAGE,0.01880161192584252
+loan_intent_MEDICAL,0.01604907821160762
+person_home_ownership_OWN,0.01357818079965342
+loan_intent_DEBTCONSOLIDATION,0.009524647198547542
+loan_intent_EDUCATION,0.008667113417083582
+loan_intent_VENTURE,0.008444430653559794
+loan_intent_PERSONAL,0.005137473160329623
+person_home_ownership_OTHER,0.0
