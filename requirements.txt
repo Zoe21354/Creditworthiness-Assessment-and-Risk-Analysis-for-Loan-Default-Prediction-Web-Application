@@ -1,5 +1,4 @@
 dash==2.6.0
 pandas
-pickle
 numpy
 gunicorn
