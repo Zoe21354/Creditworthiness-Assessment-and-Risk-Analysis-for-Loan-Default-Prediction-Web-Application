@@ -157,4 +157,4 @@ def update_output(n_clicks, person_age, person_income, person_home_ownership, pe
         return 'Fill in the form and press Enter'
 
 if __name__ == "__main__":
-    app.run_server()
+    app.run_server(debug=False)
